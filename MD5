@@ -1,0 +1,9 @@
+b91b17d4c1182eb69eb244d26673ad5f *DESCRIPTION
+1fd6b91a6eb7540662b7351a7a0370a5 *NAMESPACE
+62f41e2f3d03dcf68a4b0c5793685a3c *R/athena.R
+3a7295458da72772ef9ea026c83f9c1d *R/zzz.R
+eff7e9f835f2a69da7687eeb38f46101 *README.md
+f40ae931f921cbfe4cfa70cbabc7f267 *inst/java/log4j.properties
+13cd80737df96b48776b6228d0902ea0 *man/Athena.Rd
+895ebaef7066fa73a2d59c0d98a89941 *man/AthenaConnection-class.Rd
+55f5857830cf6ab49f8925ef67cb015a *man/AthenaDriver-class.Rd
